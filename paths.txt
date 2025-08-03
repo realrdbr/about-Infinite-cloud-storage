@@ -1,0 +1,6 @@
+Folders:		RCLONE: C:\\
+			MEGA-Account-Generator: C:\Users\<YOUR Username>
+			MEGA_Upload should be put on your Desktop with the file in it.
+
+Files:			Everything in scripts belongs to the Desktop, but should work everywhere fine too.
+			
